@@ -37,9 +37,9 @@ author:
   orcid            : "https://orcid.org/0000-0003-3665-2724"
   semantic         : # URL
   pubmed           : # URL
+  researchgate     : # URL
   MTMT             : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10054041"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56108024900"
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
