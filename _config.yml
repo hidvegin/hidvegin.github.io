@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-3665-2724"
   semantic         : # URL
   pubmed           : # URL
-  MTMT            : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10054041"
+  MTMT             : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10054041"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56108024900"
   researchgate     : # URL
 
