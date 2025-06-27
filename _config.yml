@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   MTMT            : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10054041"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56108024900"
   researchgate     : # URL
 
   # Repositories and software development
