@@ -6,7 +6,7 @@ permalink: /publication/2024-01-01-expression-responses-of-xth-ge
 excerpt: 'Rainfall, wind and touch, as mechanical forces, were mimicked on 6-week-old soil-grown tomato and potato under controlled conditions. Expression level changes of xyloglucan endotransglucosylase/hydrolase genes ({XTHs}) of tomato (Solanum lycopersicum L. cv. Micro Tom; {SlXTHs}) and potato (Solanum tuberosum L. cv. Desirée; {StXTHs}) were analyzed in response to these mechanical forces. Transcription intensity of every {SlXTHs} of tomato was altered in response to rainfall, while the expression intensity of 72\% and 64\% of {SlXTHs} was modified by wind and touch, respectively. Ninety-one percent of {StXTHs} (32 out of 35) in potato responded to the rainfall, while 49\% and 66\% of the {StXTHs} were responsive to the wind and touch treatments, respectively. As previously demonstrated, all {StXTHs} were responsive to ultrasound treatment, and all were sensitive to one or more of the environmental mechanical factors examined in the current study. To our best knowledge, this is the first study to demonstrate that these ubiquitous mechanical environmental cues, such as rainfall, wind and touch, influence the transcription of most {XTHs} examined in both species.'
 date: 2024-01-01
 venue: 'Plant Signaling \& Behavior'
-paperurl: ''
+paperurl: 'https://doi.org/10.1080/15592324.2024.2360296'
 citation: 'Hidvégi, Norbert and Dobránszki, Judit and Tóth, Bianka and Gulyás, Andrea (2024). "Expression responses of {XTH} genes in tomato and potato to environmental mechanical forces: focus on behavior in response to rainfall, wind and touch". <i>Plant Signaling \& Behavior</i>.'
 ---
 
