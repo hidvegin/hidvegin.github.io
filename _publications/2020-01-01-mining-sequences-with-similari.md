@@ -1,0 +1,13 @@
+---
+title: "Mining sequences with similarity to {XTH} genes in the Solanum tuberosum L. transcriptome: introductory step for identifying homologous {XTH} genes"
+collection: publications
+category: article
+permalink: /publication/2020-01-01-mining-sequences-with-similari
+excerpt: 'The xyloglucan endotransglucosylase/hydrolase ({XTH}) genes in Arabidopsis thaliana (L.) Heynh. form part of a group of mechano-stimulated genes and play an important role in abiotic stress tolerance. Mining the {RNAseq} transcriptomic database of 40,430 potato (Solanum tuberosum L.) genes based on functional annotation and homology search, our objective was to discover potentially homologous {XTH} genes. A Gene Ontology-based {XTH} homology search and functional annotation discovered, from among the 33 A. thaliana ({AtXTH}) and 25 tomato (Solanum lycopersicum L.) ({SlXTH}) {XTH} genes, 35 gene sequences corresponding to 20 {AtXTH} genes and 40 gene sequences corresponding to 21 {SlXTH} genes, respectively. Thirteen sequences corresponding to 11 putative {XTH} genes in potato, named as {StXTH} after {SlXTH} genes, were significantly up- or down-regulated in response to ultrasound. These putative {StXTH} genes in potato can serve for future functional genetic analyses.'
+date: 2020-01-01
+venue: 'Plant Signaling \& Behavior'
+paperurl: ''
+citation: 'Hidvégi, Norbert and Gulyás, Andrea and Dobránszki, Judit and Silva, Jaime A. Teixeira da (2020). "Mining sequences with similarity to {XTH} genes in the Solanum tuberosum L. transcriptome: introductory step for identifying homologous {XTH} genes". <i>Plant Signaling \& Behavior</i>.'
+---
+
+The xyloglucan endotransglucosylase/hydrolase ({XTH}) genes in Arabidopsis thaliana (L.) Heynh. form part of a group of mechano-stimulated genes and play an important role in abiotic stress tolerance. Mining the {RNAseq} transcriptomic database of 40,430 potato (Solanum tuberosum L.) genes based on functional annotation and homology search, our objective was to discover potentially homologous {XTH} genes. A Gene Ontology-based {XTH} homology search and functional annotation discovered, from among the 33 A. thaliana ({AtXTH}) and 25 tomato (Solanum lycopersicum L.) ({SlXTH}) {XTH} genes, 35 gene sequences corresponding to 20 {AtXTH} genes and 40 gene sequences corresponding to 21 {SlXTH} genes, respectively. Thirteen sequences corresponding to 11 putative {XTH} genes in potato, named as {StXTH} after {SlXTH} genes, were significantly up- or down-regulated in response to ultrasound. These putative {StXTH} genes in potato can serve for future functional genetic analyses.
